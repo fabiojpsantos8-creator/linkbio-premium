@@ -4,7 +4,7 @@ import {
   Sun, Moon, Smartphone, Monitor, Share2, QrCode, BarChart3,
   Paintbrush, Links, Palette, Sparkles, Layers, CheckCircle2, Copy
 } from 'lucide-react';
-import { BioProfile } from './types/bio';
+import type { BioProfile } from './types/bio';
 import { BackgroundEngine } from './components/BackgroundEngine';
 import { LinkCard } from './components/LinkCard';
 
